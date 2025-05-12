@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Frappe specific
+*.log
+*.pot
+*.pyc
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+site/
+sites/
+sites/*/private/
+sites/*/public/
+sites/*/translations/
+sites/*/error-snapshot/
+sites/*/task-logs/
+sites/*/backups/
+sites/*/assets/
+sites/*/node_modules/
+sites/*/package-lock.json
+sites/*/yarn.lock
+
+# Redis files
+*.rdb
+redis_queue.rdb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frappe/ERPNext specific
+frappe-bench/apps/*
+!frappe-bench/apps/galaxyerp/
+frappe-bench/archived/
+frappe-bench/config/pids/
+frappe-bench/logs/
+frappe-bench/sites/*/private/
+frappe-bench/sites/*/public/files/
+frappe-bench/sites/*/private/backups/
+frappe-bench/sites/*/private/files/
+
+# Node
+node_modules/
+npm-debug.log 
