@@ -1,0 +1,845 @@
+2025-04-28 05:18:19,492 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 05:18:19,549 ERROR scheduler Skipped queueing erpnext.stock.doctype.serial_no.serial_no.update_maintenance_status because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,329 ERROR scheduler Skipped queueing frappe.desk.notifications.clear_notifications because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,345 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,358 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,366 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,379 ERROR scheduler Skipped queueing erpnext.stock.doctype.serial_no.serial_no.update_maintenance_status because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,388 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,395 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,402 ERROR scheduler Skipped queueing frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,411 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,415 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,428 ERROR scheduler Skipped queueing erpnext.crm.doctype.contract.contract.update_status_for_contracts because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,433 ERROR scheduler Skipped queueing erpnext.accounts.utils.run_ledger_health_checks because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,445 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,449 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset.asset.update_maintenance_status because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,457 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,461 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,465 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:19:18,472 ERROR scheduler Skipped queueing erpnext.accounts.doctype.fiscal_year.fiscal_year.auto_create_fiscal_year because it was found in queue for GalaxyERP.com
+2025-04-28 05:20:17,045 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 05:20:17,054 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:20:17,057 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 05:20:17,071 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 05:20:17,076 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:20:17,096 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:22:20,836 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:23:19,845 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:24:18,448 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:25:16,726 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:26:15,463 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:27:15,347 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:28:14,004 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:29:12,640 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:30:11,679 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:10,587 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:10,608 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:10,619 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:10,641 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:10,658 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:10,729 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:10,794 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:10,830 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:11,026 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:11,041 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:11,053 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:11,071 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:11,162 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:11,174 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:31:11,183 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,692 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,708 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,716 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,731 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,743 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,759 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,785 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,807 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,824 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,846 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,860 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,876 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,930 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 05:32:09,947 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,485 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,500 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,527 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,542 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,550 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,569 ERROR scheduler Skipped queueing erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,579 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,598 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,676 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,696 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,733 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,763 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 05:33:08,787 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 05:34:08,293 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:34:08,345 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 05:34:08,386 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 05:34:08,439 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:34:07,729 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 05:34:07,798 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 05:34:07,865 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 05:34:07,891 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 05:34:07,927 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for GalaxyERP.com
+2025-04-28 05:35:07,580 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:35:07,639 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 05:35:07,659 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:35:07,730 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:35:07,765 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 05:35:07,783 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 05:35:07,797 ERROR scheduler Skipped queueing erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries because it was found in queue for GalaxyERP.com
+2025-04-28 05:36:06,189 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:36:06,210 ERROR scheduler Skipped queueing erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries because it was found in queue for GalaxyERP.com
+2025-04-28 05:36:06,249 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:37:04,916 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:37:05,077 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:38:04,077 ERROR scheduler Skipped queueing erpnext.utilities.bulk_transaction.retry because it was found in queue for GalaxyERP.com
+2025-04-28 05:46:53,267 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 05:46:53,397 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 05:46:53,533 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 05:47:52,240 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 05:47:52,252 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:47:52,274 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 05:47:52,285 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 05:51:47,747 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 06:01:37,097 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 06:01:37,134 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 06:01:37,177 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 06:01:37,184 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 06:01:37,197 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 06:01:37,205 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 06:01:37,246 ERROR scheduler Skipped queueing erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs because it was found in queue for GalaxyERP.com
+2025-04-28 06:01:37,290 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 06:01:37,318 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 06:02:36,081 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 06:02:36,177 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 06:02:36,186 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 06:02:36,203 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 06:03:35,564 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 06:11:28,359 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 06:16:23,783 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 06:16:23,803 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,251 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,271 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,297 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,315 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,331 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,355 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,366 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,371 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,396 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,401 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,414 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,420 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,423 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,430 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,435 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,442 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 06:31:13,447 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,622 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,645 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,651 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,656 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,665 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,703 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,711 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,723 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,738 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,745 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,767 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 06:32:12,786 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 06:33:12,403 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 06:33:12,419 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 06:33:12,441 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 06:33:12,467 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request because it was found in queue for GalaxyERP.com
+2025-04-28 06:33:12,505 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 06:33:12,518 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 06:34:11,806 ERROR scheduler Skipped queueing erpnext.utilities.bulk_transaction.retry because it was found in queue for GalaxyERP.com
+2025-04-28 06:34:11,825 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 06:35:11,018 ERROR scheduler Skipped queueing erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,136 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,156 ERROR scheduler Skipped queueing frappe.core.doctype.prepared_report.prepared_report.expire_stalled_report because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,163 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,175 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,190 ERROR scheduler Skipped queueing erpnext.utilities.bulk_transaction.retry because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,199 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,203 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,208 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,221 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,228 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,235 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,239 ERROR scheduler Skipped queueing erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,247 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,250 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,255 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,265 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,279 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,286 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,300 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,309 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,317 ERROR scheduler Skipped queueing erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries because it was found in queue for GalaxyERP.com
+2025-04-28 08:40:15,331 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,420 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,433 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,440 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,445 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,461 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,470 ERROR scheduler Skipped queueing erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,476 ERROR scheduler Skipped queueing frappe.core.doctype.prepared_report.prepared_report.expire_stalled_report because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,488 ERROR scheduler Skipped queueing erpnext.utilities.bulk_transaction.retry because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,498 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,510 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,529 ERROR scheduler Skipped queueing erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,568 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,579 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,587 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,595 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 08:41:15,602 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 08:42:15,658 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 08:42:15,681 ERROR scheduler Skipped queueing erpnext.utilities.bulk_transaction.retry because it was found in queue for GalaxyERP.com
+2025-04-28 08:42:15,701 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 08:42:15,711 ERROR scheduler Skipped queueing erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs because it was found in queue for GalaxyERP.com
+2025-04-28 08:42:15,724 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for GalaxyERP.com
+2025-04-28 08:42:15,736 ERROR scheduler Skipped queueing erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries because it was found in queue for GalaxyERP.com
+2025-04-28 08:42:15,741 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 08:42:15,751 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 08:42:15,771 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 08:42:15,811 ERROR scheduler Skipped queueing frappe.core.doctype.prepared_report.prepared_report.expire_stalled_report because it was found in queue for GalaxyERP.com
+2025-04-28 08:43:15,908 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 08:43:15,950 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for GalaxyERP.com
+2025-04-28 08:43:16,003 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 08:43:16,018 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 08:43:16,026 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 08:43:16,034 ERROR scheduler Skipped queueing erpnext.utilities.bulk_transaction.retry because it was found in queue for GalaxyERP.com
+2025-04-28 08:43:16,039 ERROR scheduler Skipped queueing erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries because it was found in queue for GalaxyERP.com
+2025-04-28 08:44:16,171 ERROR scheduler Skipped queueing erpnext.utilities.bulk_transaction.retry because it was found in queue for GalaxyERP.com
+2025-04-28 08:46:16,499 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 08:46:16,536 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 09:01:19,327 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 09:01:19,482 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 09:01:19,496 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 09:01:19,505 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 09:01:19,551 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 09:02:19,707 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 09:16:21,917 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 09:16:21,964 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,351 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,397 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,411 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,418 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,441 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,450 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,475 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,486 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,530 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,538 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,573 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,584 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,617 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,629 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,635 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,648 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,669 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 09:31:24,677 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,779 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,789 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,813 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,826 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,841 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,848 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,855 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,868 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,894 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,903 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,915 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,919 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,924 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for GalaxyERP.com
+2025-04-28 09:32:24,932 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 09:33:25,020 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 09:33:25,051 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 09:33:25,072 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 09:33:25,090 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 09:33:25,103 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 09:33:25,121 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 09:33:25,125 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 09:33:25,131 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 09:34:25,351 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 09:34:25,366 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 09:46:26,885 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 09:46:27,034 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 09:46:27,077 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 10:01:19,104 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 10:01:19,171 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 10:01:19,222 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 10:01:19,276 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 10:01:19,303 ERROR scheduler Skipped queueing frappe.core.doctype.prepared_report.prepared_report.expire_stalled_report because it was found in queue for GalaxyERP.com
+2025-04-28 10:01:19,335 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for GalaxyERP.com
+2025-04-28 10:01:19,352 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 10:02:18,624 ERROR scheduler Skipped queueing frappe.core.doctype.prepared_report.prepared_report.expire_stalled_report because it was found in queue for GalaxyERP.com
+2025-04-28 10:16:19,833 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 10:16:19,856 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,103 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,129 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,149 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,175 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,184 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,198 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,207 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,232 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,250 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,286 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,304 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,313 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,333 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,342 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,358 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,374 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 10:31:23,389 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,437 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,457 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,463 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,468 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,472 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,497 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,505 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,521 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,528 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,544 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,556 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 10:32:23,573 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 10:33:23,719 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 10:33:23,751 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 10:33:23,792 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 10:33:23,818 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 10:33:23,838 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 10:33:23,843 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 10:34:24,016 ERROR scheduler Skipped queueing erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries because it was found in queue for GalaxyERP.com
+2025-04-28 10:46:26,230 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 10:46:26,298 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 10:46:26,336 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 10:46:26,342 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 10:47:26,524 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 11:01:29,159 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 11:01:29,218 ERROR scheduler Skipped queueing frappe.core.doctype.prepared_report.prepared_report.expire_stalled_report because it was found in queue for GalaxyERP.com
+2025-04-28 11:01:29,236 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 11:01:29,245 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 11:01:29,270 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for GalaxyERP.com
+2025-04-28 11:01:29,275 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 11:02:29,495 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 11:16:32,717 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 11:16:32,759 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 11:16:32,766 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 11:16:32,864 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:35,940 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:35,956 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:35,969 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:35,986 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:35,993 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:35,998 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:36,003 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:36,010 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:36,017 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:36,021 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:36,034 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:36,043 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:36,050 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:36,071 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:36,078 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 11:31:36,085 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 11:32:36,242 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 11:32:36,257 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 11:32:36,277 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 11:32:36,294 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 11:32:36,299 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 11:32:36,316 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for GalaxyERP.com
+2025-04-28 11:32:36,328 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 11:32:36,335 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 11:32:36,397 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 11:32:36,437 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 11:32:36,487 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 11:33:36,596 ERROR scheduler Skipped queueing frappe.email.doctype.newsletter.newsletter.send_scheduled_email because it was found in queue for GalaxyERP.com
+2025-04-28 11:33:36,649 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 11:33:36,685 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 11:33:36,700 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 11:33:36,710 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 11:34:36,986 ERROR scheduler Skipped queueing erpnext.utilities.bulk_transaction.retry because it was found in queue for GalaxyERP.com
+2025-04-28 11:46:40,127 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 11:46:40,196 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 11:46:40,201 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,421 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,453 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,482 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,494 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,498 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,510 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,527 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,539 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,546 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,553 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,558 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,581 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,593 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,606 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,623 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,635 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 12:31:04,641 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,322 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,332 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,345 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,378 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,404 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,456 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,474 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,511 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,519 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,526 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,539 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 12:32:07,548 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for GalaxyERP.com
+2025-04-28 12:33:10,252 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 12:33:10,296 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 12:33:10,324 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for GalaxyERP.com
+2025-04-28 12:33:10,337 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for GalaxyERP.com
+2025-04-28 12:33:10,346 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 12:33:10,373 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 12:46:34,911 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 12:46:34,963 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for GalaxyERP.com
+2025-04-28 12:46:34,980 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for GalaxyERP.com
+2025-04-28 13:01:09,121 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for GalaxyERP.com
+2025-04-28 13:01:09,140 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 13:01:09,146 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for GalaxyERP.com
+2025-04-28 13:01:09,159 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 13:01:09,165 ERROR scheduler Skipped queueing frappe.core.doctype.prepared_report.prepared_report.expire_stalled_report because it was found in queue for GalaxyERP.com
+2025-04-28 13:01:09,177 ERROR scheduler Skipped queueing erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs because it was found in queue for GalaxyERP.com
+2025-04-28 13:01:09,186 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for GalaxyERP.com
+2025-04-28 13:01:09,204 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for GalaxyERP.com
+2025-04-28 13:01:09,241 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 13:02:11,420 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for GalaxyERP.com
+2025-04-28 13:02:11,447 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for GalaxyERP.com
+2025-04-28 13:02:11,472 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for GalaxyERP.com
+2025-04-28 13:21:03,433 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for GalaxyERP.com
+2025-04-28 13:21:03,541 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for GalaxyERP.com
+2025-04-28 13:21:03,572 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for GalaxyERP.com
+2025-04-28 13:21:03,614 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for GalaxyERP.com
+2025-04-28 13:23:10,562 ERROR scheduler Exception in Enqueue Events for Site GalaxyERP.com
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 649, in connect
+    sock = socket.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+       ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 207, in sql
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 112, in connect
+    self._conn: "MariadbConnection" | "PostgresConnection" = self.get_connection()
+                                                             ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 107, in get_connection
+    conn = self._get_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 113, in _get_connection
+    return self.create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 116, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 361, in __init__
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 716, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 111] Connection refused)")
+2025-04-28 13:24:13,685 ERROR scheduler Exception in Enqueue Events for Site GalaxyERP.com
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 649, in connect
+    sock = socket.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+       ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 207, in sql
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 112, in connect
+    self._conn: "MariadbConnection" | "PostgresConnection" = self.get_connection()
+                                                             ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 107, in get_connection
+    conn = self._get_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 113, in _get_connection
+    return self.create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 116, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 361, in __init__
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 716, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 111] Connection refused)")
+2025-04-28 13:25:16,847 ERROR scheduler Exception in Enqueue Events for Site GalaxyERP.com
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 649, in connect
+    sock = socket.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+       ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 207, in sql
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 112, in connect
+    self._conn: "MariadbConnection" | "PostgresConnection" = self.get_connection()
+                                                             ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 107, in get_connection
+    conn = self._get_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 113, in _get_connection
+    return self.create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 116, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 361, in __init__
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 716, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 111] Connection refused)")
+2025-04-28 13:26:20,285 ERROR scheduler Exception in Enqueue Events for Site GalaxyERP.com
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 649, in connect
+    sock = socket.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+       ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 207, in sql
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 112, in connect
+    self._conn: "MariadbConnection" | "PostgresConnection" = self.get_connection()
+                                                             ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 107, in get_connection
+    conn = self._get_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 113, in _get_connection
+    return self.create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 116, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 361, in __init__
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 716, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 111] Connection refused)")
+2025-04-28 13:27:23,660 ERROR scheduler Exception in Enqueue Events for Site GalaxyERP.com
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 649, in connect
+    sock = socket.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+       ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 207, in sql
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 112, in connect
+    self._conn: "MariadbConnection" | "PostgresConnection" = self.get_connection()
+                                                             ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 107, in get_connection
+    conn = self._get_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 113, in _get_connection
+    return self.create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 116, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 361, in __init__
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 716, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 111] Connection refused)")
+2025-04-28 13:28:25,345 ERROR scheduler Exception in Enqueue Events for Site GalaxyERP.com
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 649, in connect
+    sock = socket.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+       ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 207, in sql
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 112, in connect
+    self._conn: "MariadbConnection" | "PostgresConnection" = self.get_connection()
+                                                             ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 107, in get_connection
+    conn = self._get_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 113, in _get_connection
+    return self.create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 116, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 361, in __init__
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 716, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 111] Connection refused)")
+2025-04-28 13:29:29,251 ERROR scheduler Exception in Enqueue Events for Site GalaxyERP.com
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 649, in connect
+    sock = socket.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+       ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 207, in sql
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 112, in connect
+    self._conn: "MariadbConnection" | "PostgresConnection" = self.get_connection()
+                                                             ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 107, in get_connection
+    conn = self._get_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 113, in _get_connection
+    return self.create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 116, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 361, in __init__
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 716, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 111] Connection refused)")
+2025-04-28 13:30:32,777 ERROR scheduler Exception in Enqueue Events for Site GalaxyERP.com
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 649, in connect
+    sock = socket.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+       ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 207, in sql
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 112, in connect
+    self._conn: "MariadbConnection" | "PostgresConnection" = self.get_connection()
+                                                             ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 107, in get_connection
+    conn = self._get_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 113, in _get_connection
+    return self.create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 116, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 361, in __init__
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 716, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 111] Connection refused)")
+2025-04-28 13:31:37,029 ERROR scheduler Exception in Enqueue Events for Site GalaxyERP.com
+Traceback (most recent call last):
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+       ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+      ^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 207, in sql
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/database.py", line 112, in connect
+    self._conn: "MariadbConnection" | "PostgresConnection" = self.get_connection()
+                                                             ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 107, in get_connection
+    conn = self._get_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 113, in _get_connection
+    return self.create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/apps/frappe/frappe/database/mariadb/database.py", line 116, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 361, in __init__
+    self.connect()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 669, in connect
+    self._request_authentication()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 957, in _request_authentication
+    auth_packet = self._read_packet()
+                  ^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/connections.py", line 775, in _read_packet
+    packet.raise_for_error()
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/mnt/c/Users/Admin/OneDrive/Desktop/GalaxyERP/frappe-bench/env/lib/python3.12/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user 'galaxyerp'@'localhost'")

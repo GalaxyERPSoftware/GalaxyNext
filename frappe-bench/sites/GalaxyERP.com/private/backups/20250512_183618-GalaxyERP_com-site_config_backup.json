@@ -1,0 +1,9 @@
+{
+ "db_name": "galaxyerp",
+ "db_password": "GalaxyERP@DB",
+ "db_type": "mariadb",
+ "db_user": "galaxyerp",
+ "encryption_key": "xxyQpXB4u_XyQ8a8djjLNMVTJn3acZ6HDC7dSy_HAnU=",
+ "http_host": "0.0.0.0",
+ "http_port": "8000"
+}

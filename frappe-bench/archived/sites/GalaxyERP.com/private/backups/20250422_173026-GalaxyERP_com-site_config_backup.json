@@ -1,0 +1,9 @@
+{
+ "db_name": "_7de7f0964be64908",
+ "db_password": "9oUsuyQNqJv3u7fX",
+ "db_type": "mariadb",
+ "app_name": "GalaxyERP",
+ "app_logo": "/assets/erpnext/images/galaxyerp.png",
+ "app_title": "GalaxyERP",
+ "app_description": "GalaxyERP - Enterprise Resource Planning"
+}

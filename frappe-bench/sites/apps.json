@@ -1,0 +1,31 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "15.65.2"
+    },
+    "erpnext": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "37e00a66da7f38107ee31141c43154a4615ff568",
+            "branch": "version-13"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "13.55.2"
+    },
+    "galaxyerp": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "356e49b6f9ee1b9ed1d1a30ac024bf4b40a6057e",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    }
+}
